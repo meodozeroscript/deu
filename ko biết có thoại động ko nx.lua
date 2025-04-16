@@ -1,7 +1,7 @@
 -- TẠO GIAO DIỆN REDZ HUB
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
-gui.Name = "RedzHub"
+gui.Name = "Mèo Đỏ PKĐ"
 
 -- KHUNG CHÍNH
 local main = Instance.new("Frame", gui)
